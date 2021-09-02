@@ -1,0 +1,53 @@
+[{
+        "categoria": "To have",
+        "pregunta": "Me lo estoy pasando muy bien contigo",
+        "respuesta": "I'm having a great time with you",
+        "incorrecta1": "I have a great time with you ",
+        "incorrecta2": "I have had a great time with you",
+        "incorrecta3": "I had a great time with you",
+        "imagen": "/img/bien.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To have ",
+        "pregunta": "Hoy he tenido un examen",
+        "respuesta": "I have had an exam today ",
+        "incorrecta1": "I had an exam today ",
+        "incorrecta2": "I have an exam today ",
+        "incorrecta3": "I will have an exam today",
+        "imagen": "/img/examen2.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To have ",
+        "pregunta": "Tuve un perro cuando era un  niño",
+        "respuesta": "I had a dog when i was a kid ",
+        "incorrecta1": "I have had a dog when i was a kid ",
+        "incorrecta2": "I would have a dog when i was a kid ",
+        "incorrecta3": "i have a dog when i when i was a kid ",
+        "imagen": "/img/perro.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To have ",
+        "pregunta": "Tendré un coche nuevo el próximo mes ",
+        "respuesta": "I will have a  new car next month",
+        "incorrecta1": "I'm going to have a new car next month",
+        "incorrecta2": "I would have a new car next month",
+        "incorrecta3": "I have a new car next month",
+        "imagen": "/img/coche.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To have",
+        "pregunta": "Voy a tener una reunión el próximo lunes ",
+        "respuesta": "I'm going to have a meeting next Monday",
+        "incorrecta1": "I will have a meeting next Monday",
+        "incorrecta2": "I would have a meeting next Monday",
+        "incorrecta3": "I had a meeting next Monday",
+        "imagen": "/img/reunion.jpg",
+        "objectFit": "cover"
+
+    }
+
+]

@@ -1,0 +1,52 @@
+[{
+        "categoria": "To want",
+        "pregunta": "Quieres un poco de chocolate ",
+        "respuesta": "You want some chocolate",
+        "incorrecta1": "You are wanting some chocolate",
+        "incorrecta2": "You have wanted some chocolate",
+        "incorrecta3": "You wanted some chocolate",
+        "imagen": "/img/chocolate.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "To want",
+        "pregunta": "Has querido demasiadas cosas ",
+        "respuesta": "You have wanted too many things",
+        "incorrecta1": "You wanted too many things",
+        "incorrecta2": "You had wanted too many things",
+        "incorrecta3": "You would wanted too many things",
+        "imagen": "/img/regalo.jpg",
+        "objectFit": "cover"
+    }, {
+        "categoria": "To want ",
+        "pregunta": "Querías llevarme al aeropuerto",
+        "respuesta": "You wanted to take me to the airport",
+        "incorrecta1": "You have wanted to take me to the airport",
+        "incorrecta2": "You had wanted to take me to the airport ",
+        "incorrecta3": "You would want to take me to the airport",
+        "imagen": "/img/aeropuerto.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "To want ",
+        "pregunta": "Querrás una casa más grande ",
+        "respuesta": "You will want a bigger house ",
+        "incorrecta1": "You would want a bigger house ",
+        "incorrecta2": "You are going to want a bigger house",
+        "incorrecta3": "You want a bigger house",
+        "imagen": "/img/casa.jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "To want",
+        "pregunta": "Vas a querer una guitarra  ",
+        "respuesta": "You're going to want a guitar",
+        "incorrecta1": "You will want a guitar ",
+        "incorrecta2": "You would want a guitar",
+        "incorrecta3": "You want a guitar ",
+        "imagen": "/img/guitarra.jpg",
+        "objectFit": "cover"
+    }
+]

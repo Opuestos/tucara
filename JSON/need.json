@@ -1,0 +1,54 @@
+[{
+        "categoria": "To need ",
+        "pregunta": "Necesita comprar ropa nueva  ",
+        "respuesta": "He needs to buy new clothes  ",
+        "incorrecta1": "He's needing to buy new clothes ",
+        "incorrecta2": " He would need to buy new clothes",
+        "incorrecta3": "He will need to buy new clothes ",
+        "imagen": "/img/tienda.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need  ",
+
+        "pregunta": "Ha necesitado muchos libros este año",
+        "respuesta": "He has needed a lot of books this year",
+        "incorrecta1": "He have needed a lot of books this year",
+        "incorrecta2": "He had needed a lot of books this year",
+        "incorrecta3": "He would need a lot of books this year",
+        "imagen": "/img/libros.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need ",
+        "pregunta": "Necesitaba dinero para la fiesta ",
+        "respuesta": "He needed money for the party",
+        "incorrecta1": "He needs money for the party ",
+        "incorrecta2": "He has needed money for the party",
+        "incorrecta3": "He have needed money for the party ",
+        "imagen": "/img/fiesta.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need ",
+        "pregunta": " Necesitará dinero para comprar una chaqueta ",
+        "respuesta": "He will need money to buy a jacket ",
+        "incorrecta1": "He's going to need money to buy a jacket ",
+        "incorrecta2": "He would need money to buy a jacket",
+        "incorrecta3": "He needs money to buy a jacket",
+        "imagen": "/img/store.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To need ",
+        "pregunta": "Va a necesitar una niñera para esta noche",
+        "respuesta": "He's going to need a babysitter for tonight",
+        "incorrecta1": "He will need a babysitter for tonight ",
+        "incorrecta2": "He would need a babysitter for tonight",
+        "incorrecta3": "He's going to needed a babysitter for tonight",
+        "imagen": "/img/niñera.png",
+        "objectFit": "cover"
+
+    }
+
+]

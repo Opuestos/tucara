@@ -1,0 +1,52 @@
+[{
+        "categoria": "To be ",
+        "pregunta": "Estamos siendo un poco egoístas ",
+        "respuesta": "We are being a little selfish",
+        "incorrecta1": "We are been a little selfish",
+        "incorrecta2": "We wont be a little selfish",
+        "incorrecta3": "We is being a little selfish",
+        "imagen": "/img/1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "To be ",
+        "pregunta": "Hoy hemos sido amables con él ",
+        "respuesta": "We have been nice to him today",
+        "incorrecta1": "We are being nice to him today",
+        "incorrecta2": "We are been nice to him today",
+        "incorrecta3": "We have being nice to him today",
+        "imagen": "/img/amble.jpg",
+        "objectFit": "cover"
+    }, {
+        "categoria": "To be ",
+        "pregunta": "Estábamos en el ejército cuando eramos jóvenes ",
+        "respuesta": "We were in the army when we were younger",
+        "incorrecta1": "We was in the army when we were younger",
+        "incorrecta2": "We have been in the army when we were younger ",
+        "incorrecta3": "We have being in the army when we were younger",
+        "imagen": "/img/ejercito.jpg",
+        "objectFit": "cover"
+    },
+
+    {
+        "categoria": "To be ",
+        "pregunta": "Estaremos muy enfadados si haces eso",
+        "respuesta": "We will be so angry if you do that",
+        "incorrecta1": "We are going to be so angry if you do that",
+        "incorrecta2": "We would be so angry if you do that",
+        "incorrecta3": "We have been so angry if you do that",
+        "imagen": "/img/enfadado .jpg",
+        "objectFit": "cover"
+
+    },
+    {
+        "categoria": "To be ",
+        "pregunta": "Vamos a estar muy contentos si ganamos ",
+        "respuesta": "We are going to be very happy if we win",
+        "incorrecta1": "We will be very happy if we win",
+        "incorrecta2": "We would be very happy if we win",
+        "incorrecta3": "We have been very happy if we win",
+        "imagen": "/img/ganador.svg",
+        "objectFit": "cover"
+    }
+]

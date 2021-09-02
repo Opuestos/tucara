@@ -1,0 +1,54 @@
+[{
+        "categoria": "To can",
+        "pregunta": "No estáis pudiendo hacerlo más rápido",
+        "respuesta": "You aren't being able to do it faster",
+        "incorrecta1": "You aren't been able to do it faster",
+        "incorrecta2": "You aren't able to do it faster",
+        "incorrecta3": "You haven't being able to do it faster",
+        "imagen": "/img/rapido.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To can ",
+
+        "pregunta": "Habéis sido capaces de ayudarle",
+        "respuesta": "You have been able to help him ",
+        "incorrecta1": "You have being able to help him",
+        "incorrecta2": "You had been able to help him",
+        "incorrecta3": "You had being able to help him",
+        "imagen": "/img/amble.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To can",
+        "pregunta": "Podríais salir más a menudo",
+        "respuesta": "You could go out more often ",
+        "incorrecta1": "You would go out more often",
+        "incorrecta2": "You have been able to go out more often ",
+        "incorrecta3": "You have being able to go out more often",
+        "imagen": "/img/calle.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To can ",
+        "pregunta": "Podréis descansar más esta noche ",
+        "respuesta": "You will be able to rest more tonight",
+        "incorrecta1": "You are going to rest more tonight",
+        "incorrecta2": "You are going to being to rest more tonight",
+        "incorrecta3": "You are going to been to rest more tonight",
+        "imagen": "/img/dormir.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To can",
+        "pregunta": "Vais a poder hacerlo",
+        "respuesta": "You are going to be able to make it",
+        "incorrecta1": "You are going to being  able to make it",
+        "incorrecta2": "You are going to  been able make it",
+        "incorrecta3": "You will be able to make it ",
+        "imagen": "/img/ganador.svg",
+        "objectFit": "cover"
+
+    }
+
+]

@@ -1,0 +1,54 @@
+[{
+        "categoria": "To know",
+        "pregunta": "Saben como montar en bici ",
+        "respuesta": "They know how to ride a bike ",
+        "incorrecta1": "They are knowing how to ride a bike",
+        "incorrecta2": "They have known how to ride a bike ",
+        "incorrecta3": "They knew how to ride a bike ",
+        "imagen": "/img/bici.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To know ",
+
+        "pregunta": "Han sabido todas las respuestas del examen",
+        "respuesta": "They have known all the answers of the examen",
+        "incorrecta1": "They had known all the  answers of the  exam ",
+        "incorrecta2": "They knew all the answers of the exam ",
+        "incorrecta3": "They know all the answers of the exam ",
+        "imagen": "/img/examen2.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To know",
+        "pregunta": "Sabían que estaba mintiendo",
+        "respuesta": "They knew that she was lying  ",
+        "incorrecta1": "They have known that she was lying ",
+        "incorrecta2": "They had known that she was lying ",
+        "incorrecta3": "They know that she was lying  ",
+        "imagen": "/img/mentiroso.png",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To know ",
+        "pregunta": " No sabrán como ir  ",
+        "respuesta": "They won't know how to go",
+        "incorrecta1": "They aren't going to know how to go",
+        "incorrecta2": "They wouldn't know how to go",
+        "incorrecta3": "They don't know how to go",
+        "imagen": "/img/mapa.jpg",
+        "objectFit": "cover"
+
+    }, {
+        "categoria": "To know",
+        "pregunta": "Van a saber como dibujarlo",
+        "respuesta": "They are going to know how to draw it",
+        "incorrecta1": "They will know how to draw it ",
+        "incorrecta2": "They know how to draw it",
+        "incorrecta3": "They would know how to draw it ",
+        "imagen": "/img/dibujar.jpg",
+        "objectFit": "cover"
+
+    }
+
+]
